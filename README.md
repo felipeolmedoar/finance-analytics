@@ -7,4 +7,4 @@
 3. Finally, on your local machine runApp().
 
 
-![alt text] (https://github.com/felipeolmedoar/finance-analytics/blob/master/shinyApp.png "Dashboard")
+![alt text](https://github.com/felipeolmedoar/finance-analytics/blob/master/shinyApp.png?raw=true "Dashboard")
