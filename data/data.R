@@ -22,8 +22,6 @@ SP_CLX_IPSA <- read_excel("data/IPSA_Historico_1Year.xlsx") %>%
 my_data <- importing_data(IPSA_STOCKS, START_DATE, END_DATE) %>% 
            data_wrangling()
 
-my_data2 <- importing_data(IPSA_STOCKS, START_DATE, END_DATE) %>% 
-            data_wrangling()
 
 ##Returns
 
